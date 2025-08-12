@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: Jose Rodriguez
   location: Location
   social: Around the Web
   credits: Credits
@@ -42,7 +42,7 @@ social:
   - title: linkedin
     url: www.linkedin.com/in/jose-rodriguez-a52756288
   - title: github
-    url: https://github.com/oserodriguez42
+    url: https://github.com/joserodriguez42
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
